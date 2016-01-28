@@ -1,11 +1,15 @@
 {
-  "name": "projectname",
+  "name": "podcastic",
   "dependencies": {
     "angular-socket-io": "^0.7.0",
     "body-parser": "latest",
     "express": "~4.2.0",
+    "feed-read": "0.0.1",
     "feedparser": "^1.1.4",
     "mongoose": "latest",
-    "searchitunes": "^2.1.1"
+    "request": "^2.69.0",
+    "rss-parser": "^2.2.2",
+    "searchitunes": "^2.1.1",
+    "xml2js": "^0.4.16"
   }
 }
